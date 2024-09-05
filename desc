@@ -1,0 +1,20 @@
+Mern stands for MongoDB,Express,React,Node  after the four key technologies that make up the stack that is used for easier 
+the stack that is used for easier and faster deployment of full - stack web applications
+MongoDB - document database
+Express - Node.js web framework 
+React(.js) -- a client side javascript library
+Node(.js) -- the premier Javascript web server
+
+MongoDB
+
+-->NoSQL database used for high - volume data storage
+-->Open-source document -- oriented database
+-->It stores data in json format
+-->Can be easily used with node.
+--->MongoDB uses BSON  to query database
+--> Documents containing key-value pairs are the basic units of data in MongoDb
+
+
+
+
+
