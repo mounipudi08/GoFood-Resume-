@@ -5,6 +5,10 @@ Express - Node.js web framework
 React(.js) -- a client side javascript library
 Node(.js) -- the premier Javascript web server
 
+how does the mern stack work?
+the mern architeture allows you to easily construct a 3-tier  architeture 
+(front end ,backend,database) entirely using javascript and json.
+
 MongoDB
 
 -->NoSQL database used for high - volume data storage
@@ -13,6 +17,52 @@ MongoDB
 -->Can be easily used with node.
 --->MongoDB uses BSON  to query database
 --> Documents containing key-value pairs are the basic units of data in MongoDb
+
+Node.js
+-> node.js allows you to run javascript on the server
+-->It is free & open source ,written in c++.
+Node.js runs single-threaded,non-blocking
+,asnchronous programming ,which is very memory efficient.
+
+where to use nodeJS?
+
+back-end services such as APIs
+highly scalable,data-intensive and real-time apps.
+I/O bounds applications
+single page applications
+
+where not to use NodeJS?
+node.js is not used in CPU - intensive apps which requires calculations done by CPU.
+
+ExpressJS
+
+flexible node.js framework that provides robust set of features for web and mobile application.
+It provides easy routing of requests based on HTTP methods and urls
+It allows to set up middlewares to respond to HTTpRequests.
+Allows to dynamically render HTML pages based on passing arguments to templates
+
+ReactJS
+
+A javascript library  for building user interfaces for web and mobile applications
+react is used to build single page applications.
+react allows us to create reusable UI components
+react-router to handle the front end routing
+
+Why react?
+
+JSX(javascript xml) makes it easier and simpler to write treact components.
+reactJS supports components.These components promote code reusability and make the overall
+web application easier to understand and debug.
+
+
+
+
+
+
+
+
+
+
 
 
 
